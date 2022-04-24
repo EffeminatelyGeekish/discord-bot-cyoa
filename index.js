@@ -29,8 +29,8 @@ for(const file of commandFiles) {
 
 // Once everything is prepared, send an info to the console
 discordClient.once('ready', () => {
-    Tags.sync({ force: true });
-    // Tags.sync();
+    // Tags.sync({ force: true });
+    Tags.sync();
     console.log(`[info] Logged in successfully as ${discordClient.user.tag}`);
 });
 
