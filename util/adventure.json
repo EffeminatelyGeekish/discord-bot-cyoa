@@ -1,0 +1,97 @@
+[
+	{
+		"id" : 0,
+		"text" : "An old decrept wooden door stands before you. Do you...\nStage 1: open the door and enter.\nStage 4: ignore the door, and peer through the window.\nStage 6: walk around to the back of the house.",
+		"choices" : [1, 4, 6]
+	},
+	{
+		"id" : 1,
+		"text" : "You open the door to find a long hallway. A door lies on your left, but the corridor continues. Do you...\nStage 2: continue down the empty corridor.\nStage 3: open the door on your left and enter.\nStage 0: turn around and go back outside.",
+		"choices" : [2, 3, 0]
+	},
+	{
+		"id" : 2,
+		"text" : "You find a door before you. You hear muffled voices from behind it. A strange temptation lures your hand to the doorknob. Do you...\nStage 1: turn around and head back to the entrance.\nStage 9: open the door and walk inside.",
+		"choices" : [1, 9]
+	},
+	{
+		"id" : 3,
+		"text" : "You enter the room, and see a table with a note on top, a fireplace roars against the wall. Do you...\nStage 5: sit down by the fireplace and read the note.\nStage 1: turn around and exit the room",
+		"choices" : [5, 1]
+	},
+	{
+		"id" : 4,
+		"text" : "You peer inside the window, and notice you can enter here. Do you...\nStage 3: open the window and climb inside the room.\nStage 0: go to the entrance of the house.",
+		"choices" : [0, 3]
+	},
+	{
+		"id" : 5,
+		"text" : "The note is actually a newspaper clipping from a local paper. The headline reads 'MYSTERIOUS LIGHTS OVER LONE-OAK FARMS'. You place it back down and...\nStage 1: place the newspaper clipping back down, and exit the room via the door to the corridor.\nStage 7: place the newspaper clipping into the roaring fire.",
+		"choices" : [1, 7]
+	},
+	{
+		"id" : 6,
+		"text" : "You approach the rear of the house, a bonfire roars in front of you, you quickly duck behind the wall of the house. No noise can be heard other than the crackle of the fire. You...\nStage 0: head back around to the front of the house.\nStage 8: head towards the bonfire.",
+		"choices" : [0, 8]
+	},
+	{
+		"id" : 7,
+		"text" : "You go to place the newspaper clipping into the fire. As you do, you see a small button on the side of the fireplace. Do you...\nStage 5: put the clipping back down onto the table.\nStage 10: push the button.",
+		"choices" : [5, 10]
+	},
+	{
+		"id" : 8,
+		"text" : "The bonfire in front of you roars, it's crackles and pops filling the night air with a gentle scent. Nothing else appears to be around here. You proceed to...\nStage 0: head back around to the front of the house.",
+		"choices" : [0]
+	},
+	{
+		"id" : 9,
+		"text" : "You slowly walk up to the door, and gently put your ear to the wood. You hear the muffled voices from a group of people getting into various positions. Do you...\nStage 1: return to the entrance of the hallway.\nStage 100: turn the handle and enter the door.",
+		"choices" : [1, 100]
+	},
+	{
+		"id" : 10,
+		"text" : "You push the button, mechanical sounds can be heard as a bookcase on your left moves to reveal a hidden passage. It starts to close just as quickly as it appears. You...\nStage 5: gently retreat back to the chair.\nStage 12: take your chances and jump into the hidden room.",
+		"choices" : [5, 12]
+	},
+	{
+		"id" : 11,
+		"text" : "You attempt to turn the record player off, but it appears to be securely locked in place. Behind it however, lies a small key. You...\nStage 13: pick the small key up, and unlock the record player.\nStage 15: leave the record player alone, and return to the room.",
+		"choices" : [13, 15]
+	},
+	{
+		"id" : 12,
+		"text" : "You stumble into the bookcase door. It shuts behind you in pitch darkness. Further ahead you can just make out the slightest light, enchanting you further. After walking towards the light you notice a fork in the path. Gentle music appears to be playing on the right hand side, light on the left. Do you...\nStage 14: turn left towards the light.\nStage 15: turn right and walk towards the music.",
+		"choices" : [14, 15]
+	},
+	{
+		"id" : 13,
+		"text" : "You open the music player up to find a blindfold, and a note. The note reads 'Put me on.' in an unknown scrawl. You...\nStage 17: place the blindfold on.\nStage 11: lock the music player back up.",
+		"choices" : [17, 11]
+	},
+	{
+		"id" : 14,
+		"text" : "The room opens up ahead of you. A decayed banner looks to be falling off of the ceiling, and water surrounds the floor in front of you. The room appears to be empty, with no other option available to you, you...\nStage 15: turn around and head towards the onimous music.",
+		"choices" : [15]
+	},
+	{
+		"id" : 15,
+		"text" : "As you slowly move towards the onimous music, you notice a presence as the music gets louder, as a dim light brightens up the room as you enter. An old record player is playing in the corner. You...\nStage 11: turn the record player off.\nStage 16: look up at the light above you.",
+		"choices" : [11, 16]
+	},
+	{
+		"id" : 16,
+		"text" : "You look up at the light above you, it flickers once before switching off. You jump as you feel a bag come over your head, and are carried out of the room. You feel yourself be planted into a chair, with nothing else to do you... \nStage 100: remove your blindfold...",
+		"choices" : [100]
+	},
+	{
+		"id" : 17,
+		"text" : "You place the blindfold on, once you do so, you feel two hands pick you up and carry you off. You hear a small huff as you are dropped into a chair. You...\nStage 100: remove your blindfold...",
+		"choices" : [100]
+	},
+	{
+		"id" : 100,
+		"text" : "Surprise!!!! The room lights up around you as party streamers play from all directions, the banner now clearly reading 'Happy Birthday'!\nCongratulations! You have finished this quest. If you wish to redo the quest, please use '/restart' to restart your adventure!",
+		"choices" : []
+	}
+]
